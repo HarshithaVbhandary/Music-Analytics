@@ -2,7 +2,7 @@
 #Overview:
 This project analyzes a music preference survey dataset to uncover patterns in listening habits, music choices, and interest levels among various demographic groups. The analysis includes data visualization, exploratory data analysis (EDA), and machine learning considerations to better understand music preferences.
 
-#Objectives
+#Objectives:
 Visualize distribution and relationships of survey variables.
 
 Detect trends and insights regarding music preferences.
@@ -11,7 +11,7 @@ Explore the dataset for missing data or anomalies.
 
 Prepare the data for potential machine learning modeling.
 
-#Dataset Description
+#Dataset Description:
 The dataset consists of approximately 113 survey responses.
 
 It contains 17 features capturing demographics (age, gender), listening habits, music interest ratings, preferred platforms, song preferences, and mood effects.
